@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/zonenote",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zone color note values and contrast-safe presentation helpers.",
+  "bin": {
+    "zonenote": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/zonenote.git"
+  },
+  "homepage": "https://theworker02.github.io/zonenote/",
+  "keywords": [
+    "zone",
+    "note",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
